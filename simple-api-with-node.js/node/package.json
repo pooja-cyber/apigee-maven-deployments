@@ -1,0 +1,10 @@
+{
+  "name": "example-api-mock",
+  "version": "0.0.1",
+   "description":"Example API Mock",
+   "main":"app.js",
+  "dependencies": {
+    "express":"latest",
+    "body-parser":"latest"
+  }
+}

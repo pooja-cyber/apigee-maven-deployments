@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="oauth">
+    <ConfigurationVersion minorVersion="0" majorVersion="4"/>
+    <CreatedBy>saul@popularowl.com</CreatedBy>
+    <Description></Description>
+    <DisplayName></DisplayName>
+</APIProxy>
